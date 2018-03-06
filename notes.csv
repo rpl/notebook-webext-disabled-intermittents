@@ -1,0 +1,19 @@
+Bug Number,Test,Disabled on
+1258897,test_ext_sendmessage_reply2.html ,All
+1285500,browser_ext_browserAction_popup.js,"Linux, Windows"
+1313372,browser_ext_browserAction_popup.js,Linux
+1315829,test_ext_runtime_onInstalled_and_onStartup.js,All
+1348241,test_ext_contentscript_cache.html ,"Linux (debug), Android (debug)"
+1350189,browser_ext_tabs_create.js,Linux
+1369197,browser_ext_browserAction_contextMenu.js ,Linux
+1369440,test_ext_contentscript_about_blank.html,Android
+1398120,test_ext_webrequest_responseBody.html,Linux
+1398518,test_ext_notifications.html,Windows
+1405453,browser_ext_browserAction_context.js,"Windows, Mac"
+1407501,test_ext_contentscript_scriptCreated.js ,All
+1408609,test_ext_i18n.js,"Android, Linux, Windows (debug)"
+1434590,browser_ext_tabs_lastAccessed.js,Windows
+1434777,test_ext_contentscript_devtools_metadata.html ,Windows
+1417052,browser_ext_omnibox.js,"Linux (debug), OSX (debug)"
+1438663,browser_ext_popup_focus.js,All
+1419183,test_ext_management.js,"Windows (debug)"
