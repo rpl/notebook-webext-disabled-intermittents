@@ -12,8 +12,6 @@ Bug Number,Test,Disabled on
 1405453,browser_ext_browserAction_context.js,"Windows, Mac"
 1407501,test_ext_contentscript_scriptCreated.js ,All
 1408609,test_ext_i18n.js,"Android, Linux, Windows (debug)"
-1434590,browser_ext_tabs_lastAccessed.js,Windows
-1434777,test_ext_contentscript_devtools_metadata.html ,Windows
 1417052,browser_ext_omnibox.js,"Linux (debug), OSX (debug)"
 1438663,browser_ext_popup_focus.js,All
 1419183,test_ext_management.js,"Windows (debug)"
